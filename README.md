@@ -1,4 +1,4 @@
-Maltego-haveibeenpwned
+Maltego-BreachAlarm
 ======================
 
 Maltego TDS Remote Transforms for https://breachalarm.com
